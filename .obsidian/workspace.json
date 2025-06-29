@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "51e692698658b49f",
+    "id": "52b9938106482d6e",
     "type": "split",
     "children": [
       {
-        "id": "644426dfd3d354e6",
+        "id": "af14121f13e74782",
         "type": "tabs",
         "children": [
           {
-            "id": "0b1a880e0fe272e2",
+            "id": "093c90d72126e5be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "hello.md",
-                "mode": "source",
-                "source": false
+                "file": "Storage/pic.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "hello"
+              "icon": "lucide-image",
+              "title": "pic"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa2acbe6dbec9190",
+    "id": "33efff91ce8635ea",
     "type": "split",
     "children": [
       {
-        "id": "8f5f8707a591d910",
+        "id": "b651b68f12debd23",
         "type": "tabs",
         "children": [
           {
-            "id": "e430ccc97f6e32c7",
+            "id": "617045805d6a4afc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "db98ce0abc35c8fe",
+            "id": "b0faa50623b10e28",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "8565b2f524155b65",
+            "id": "560dbf11a9d03df7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +79,19 @@
     "width": 300
   },
   "right": {
-    "id": "07eac85e654f72b9",
+    "id": "5e927931f3a5f261",
     "type": "split",
     "children": [
       {
-        "id": "ee65d2c3bdc36429",
+        "id": "9e49fb0f9e86cf5c",
         "type": "tabs",
         "children": [
           {
-            "id": "be18254f34864036",
+            "id": "428c72ebc39706cd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hello"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "86afb5d7a8ef81fd",
+            "id": "d7c41467a6c046bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hello"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2d0f36914ebdd8a3",
+            "id": "6697246d3361cdf8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +133,17 @@
             }
           },
           {
-            "id": "13721830f39fd723",
+            "id": "81c9a31e4e5d7193",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hello"
+              "title": "Outline"
             }
           }
         ]
@@ -168,31 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b1a880e0fe272e2",
+  "active": "093c90d72126e5be",
   "lastOpenFiles": [
     "Storage/cameraModule_firstImg.jpg",
-    "cameraModule_firstImg.jpg",
-    "hello.md",
-    "abac/Web Caches.md",
-    "abac/Principle Of Application Layer.md",
-    "abac/localhost DNS server.md",
-    "abac/Http Two Main Type.md",
-    "abac/DNS Top level root level auth level.md",
-    "abac/DNS Record.md",
-    "Storage/Screenshot 2025-06-23 at 10.50.36 AM.png",
-    "abac/Calculating access link utlization, end-end delay with cache.md",
-    "abac/003 - Chapter 2.md",
-    "abac/Untitled.md",
-    "Computer Network Fundamental/001-Netwoking Advantages.md",
+    "Storage/pic.jpeg",
+    "Network Essential/001. Network Infrastructure.md",
     "Computer Network Fundamental/0000_Computer Network Fundamental.md",
     "Computer Network Fundamental/Cables.md",
-    "Network Essential/001. Network Infrastructure.md",
+    "Computer Network Fundamental/001-Netwoking Advantages.md",
+    "hello.md",
     "Storage/Screenshot 2024-11-05 at 12.57.32 PM.png",
+    "Storage/20986734.png",
+    "Storage/87652083.png",
+    "Storage/Screenshot 2025-06-23 at 10.50.36 AM.png",
     "Storage/Screenshot 2024-11-05 at 12.56.31 PM.png",
     "Storage/Screenshot 2024-11-05 at 12.56.24 PM.png",
-    "Storage/87652083.png",
-    "Storage/20986734.png",
     "Storage",
-    "untitled folder"
+    "abac/Untitled.md"
   ]
 }
