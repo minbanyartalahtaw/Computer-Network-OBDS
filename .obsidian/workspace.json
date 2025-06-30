@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "644426dfd3d354e6",
+        "id": "554c5eb8c469d3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b1a880e0fe272e2",
+            "id": "3eea42db6bb41f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello.md",
+                "file": "CSX3005 - Computer Network/Transport Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "Transport Layer"
+            }
+          },
+          {
+            "id": "873d7e5a3788ce71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSX3005 - Computer Network/Multiplexing and Demultiplexing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiplexing and Demultiplexing"
+            }
+          },
+          {
+            "id": "bd56879836e7d198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSX3005 - Computer Network/2 principal Internet transport protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 principal Internet transport protocols"
             }
           }
         ]
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello.md",
+                "file": "CSX3005 - Computer Network/Transport Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hello"
+              "title": "Backlinks for Transport Layer"
             }
           },
           {
@@ -113,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello.md",
+                "file": "CSX3005 - Computer Network/Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hello"
+              "title": "Outgoing links from Application Layer"
             }
           },
           {
@@ -142,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello.md",
+                "file": "CSX3005 - Computer Network/Application Layer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hello"
+              "title": "Outline of Application Layer"
             }
           }
         ]
@@ -168,30 +196,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b1a880e0fe272e2",
+  "active": "3eea42db6bb41f5a",
   "lastOpenFiles": [
-    "Storage/cameraModule_firstImg.jpg",
-    "cameraModule_firstImg.jpg",
-    "hello.md",
-    "abac/Web Caches.md",
-    "abac/Principle Of Application Layer.md",
-    "abac/localhost DNS server.md",
-    "abac/Http Two Main Type.md",
-    "abac/DNS Top level root level auth level.md",
-    "abac/DNS Record.md",
-    "Storage/Screenshot 2025-06-23 at 10.50.36 AM.png",
-    "abac/Calculating access link utlization, end-end delay with cache.md",
-    "abac/003 - Chapter 2.md",
-    "abac/Untitled.md",
-    "Computer Network Fundamental/001-Netwoking Advantages.md",
-    "Computer Network Fundamental/0000_Computer Network Fundamental.md",
-    "Computer Network Fundamental/Cables.md",
-    "Network Essential/001. Network Infrastructure.md",
-    "Storage/Screenshot 2024-11-05 at 12.57.32 PM.png",
-    "Storage/Screenshot 2024-11-05 at 12.56.31 PM.png",
-    "Storage/Screenshot 2024-11-05 at 12.56.24 PM.png",
-    "Storage/87652083.png",
+    "CSX3005 - Computer Network/Multiplexing and Demultiplexing.md",
+    "CSX3005 - Computer Network/Transport Layer.md",
+    "Storage/Pasted image 20250630102832.png",
+    "CSX3005 - Computer Network/000 - Table Of Content.md",
+    "CSX3005 - Computer Network/2 principal Internet transport protocols.md",
+    "Storage/Pasted image 20250630102512.png",
+    "CSX3005 - Computer Network/Transport Service and protocols.md",
+    "Storage/Pasted image 20250630102036.png",
+    "CSX3005 - Computer Network/Application Layer.md",
+    "CSX3005 - Computer Network/Http Two Main Type.md",
+    "CSX3005 - Computer Network/Content Distribution Network CDN.md",
+    "CSX3005 - Computer Network/Video Streaming.md",
+    "Storage/Pasted image 20250630095427.png",
     "Storage/20986734.png",
+    "Storage/Pasted image 20250630091208.png",
+    "Storage/cameraModule_firstImg.jpg",
+    "CSX3005 - Computer Network/networking physical note/Computer Network Fundamental.md",
+    "CSX3005 - Computer Network/networking physical note/Network Infrastructure.md",
+    "CSX3005 - Computer Network/networking physical note/001-Netwoking Advantages.md",
+    "CSX3005 - Computer Network/Web Caches.md",
+    "CSX3005 - Computer Network/Principle Of Application Layer.md",
+    "hello.md",
+    "CSX3005 - Computer Network/networking physical note/Cables.md",
+    "CSX3005 - Computer Network/Streaming Multimedia - DASH.md",
+    "Storage/Pasted image 20250630093540.png",
+    "CSX3005 - Computer Network/Video Stored.md",
+    "CSX3005 - Computer Network/Video Encoding.md",
+    "Storage/Pasted image 20250630092753.png",
+    "cameraModule_firstImg.jpg",
+    "CSX3005 - Computer Network/localhost DNS server.md",
+    "CSX3005 - Computer Network/DNS Top level root level auth level.md",
+    "CSX3005 - Computer Network/DNS Record.md",
+    "CSX3005 - Computer Network/Calculating access link utlization, end-end delay with cache.md",
     "Storage",
     "untitled folder"
   ]
