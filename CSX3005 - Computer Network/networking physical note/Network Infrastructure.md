@@ -1,9 +1,3 @@
-23> [!info]
-> The pros of Computer Network
-
-
-
-
 #### Sharing
 1. Data sharing
 2. အသုံးချမယ့် Software / Hardware Share
